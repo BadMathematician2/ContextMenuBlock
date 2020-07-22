@@ -1,0 +1,26 @@
+{
+    "name": "mykola/context-menu-block",
+    "description": "Make context menu blocked",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mykola",
+            "email": "mathematic204chnu@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "ContextMenuBlock": ""
+    },
+    "extra": {
+        "laravel": {
+            "provides": [
+                "ContextMenuBlock\\ContextMenuBlockProvider"
+            ],
+            "aliases": {
+                "ContextMenu": "ContextMenuBlock\\ContextMenuBlocFacadee"
+            }
+        }
+    }
+
+}
