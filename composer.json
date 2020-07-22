@@ -1,6 +1,7 @@
 {
     "name": "contextmenublocke/context-menu-block",
     "description": "Make context menu blocked",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
@@ -8,7 +9,6 @@
             "email": "mathematic204chnu@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
         "ContextMenuBlock": ""
     },
