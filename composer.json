@@ -10,7 +10,10 @@
         }
     ],
     "autoload": {
-        "ContextMenuBlock": ""
+        "psr-4": {
+            "ContextMenuBlock": ""
+        }
+
     },
     "extra": {
         "laravel": {
