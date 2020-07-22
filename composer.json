@@ -18,7 +18,7 @@
                 "ContextMenuBlock\\ContextMenuBlockProvider"
             ],
             "aliases": {
-                "ContextMenu": "ContextMenuBlock\\ContextMenuBlocFacadee"
+                "ContextMenu": "ContextMenuBlock\\ContextMenuBlocFacade"
             }
         }
     }
