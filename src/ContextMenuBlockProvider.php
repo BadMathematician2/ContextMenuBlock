@@ -11,7 +11,7 @@ class ContextMenuBlockProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__.'/contextMenuBlock.js' => public_path('contextMenuBlock.js')
+            __DIR__ . '/contextMenuBlock.js' => public_path('contextMenuBlock.js')
         ]);
     }
 
